@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\models\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\models\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|c:\\users\\0201392421008\\desktop\\desenvolvimento-web-3\\aula_02-09\\aula_02-09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351F3A22-6652-4C09-ABD6-7CC1F3E68AC5}|aula_02-09\\aula_02-09.csproj|solutionrelative:aula_02-09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "aula_02-09\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "aula_02-09\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T15:23:33.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aula_02-09\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:51:28.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Controllers\\UserController.cs",
+              "RelativeToolTip": "aula_02-09\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:48:49.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\User.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\User.cs",
+              "RelativeToolTip": "aula_02-09\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:40:04.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "aula_02-09\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:30:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "aula_02-09\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:30:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextMongodb.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ContextMongodb.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Models\\ContextMongodb.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ContextMongodb.cs",
+              "RelativeToolTip": "aula_02-09\\Models\\ContextMongodb.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:43:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\appsettings.json",
+              "RelativeDocumentMoniker": "aula_02-09\\appsettings.json",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\appsettings.json",
+              "RelativeToolTip": "aula_02-09\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T13:25:37.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Program.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Program.cs",
+              "RelativeToolTip": "aula_02-09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:20:30.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

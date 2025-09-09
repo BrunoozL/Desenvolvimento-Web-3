@@ -1,0 +1,41 @@
+﻿@model IEnumerable<aula_19_08.Models.Disciplina>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Disciplinas</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Nova disciplina</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Curso)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Curso.Nome)
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.DisciplinaId">Editar</a> |
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.DisciplinaId">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.DisciplinaId">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

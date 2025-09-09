@@ -1,0 +1,112 @@
+﻿##############################################
+###  .gitignore para ASP.NET Core MVC     ###
+###  MongoDB + Identity + EF Core Tools   ###
+##############################################
+
+# --- Básico do Visual Studio ---
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.pidb
+*.dbmdl
+*.bak
+*.log
+
+# --- Build output ---
+bin/
+obj/
+out/
+Debug*/
+Release*/
+
+# --- ASP.NET Core específico ---
+# Uncomment caso compile arquivos estáticos
+#wwwroot/
+# LibMan
+wwwroot/lib/
+
+# Arquivos de configuração sensíveis
+secrets.json
+*.secrets.json
+*.env
+*.env.local
+.env.*
+
+# IIS Express
+*.vspscc
+*.vssscc
+*.dbmdl
+
+# User-specific files (MonoDevelop/Xamarin)
+*.userprefs
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+.history/
+
+# Testes
+TestResults/
+*.TestResults
+coverage/
+coverage*.json
+*.coverage
+*.coveragexml
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Logs personalizados
+logs/
+*.log
+
+# --- MongoDB / AspNetCore.Identity.MongoDbCore ---
+# (Não há arquivos binários gerados diretamente, mas ignore dumps e arquivos temporários)
+*.bson
+*.mongo.json
+dump/
+mongod.lock
+data/
+mongodb/
+
+# --- Entity Framework Core ---
+# Migrations (opcional ignorar se você gerar sempre que necessário)
+# Se você mantém as migrations no repositório, REMOVA a linha abaixo
+**/Migrations/
+
+# EF Core Tools cache
+*.ide/
+*.tlog/
+*.cache/
+
+# DotCover
+*.dotCover
+
+# Outros
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+npm-debug.log*
+
