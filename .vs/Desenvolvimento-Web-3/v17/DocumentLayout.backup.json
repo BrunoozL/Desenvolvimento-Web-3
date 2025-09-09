@@ -1,12 +1,200 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_12-08\\aula_12-08\\Models\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\Matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula_19-08\\aula_19-08\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "aula_02-09\\aula_02-09\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T12:43:38.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "aula_02-09\\aula_02-09\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:41:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "aula_02-09\\aula_02-09\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:39:25.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "aula_12-08\\aula_12-08\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\Produto.cs",
+              "RelativeToolTip": "aula_12-08\\aula_12-08\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:46.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "aula_12-08\\aula_12-08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:46.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Usuario.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\Matricula.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Matricula.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Disciplina.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:31.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Curso.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:29.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "aula_19-08\\aula_19-08\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Desenvolvimento-Web-3\\aula_19-08\\aula_19-08\\Models\\Aluno.cs",
+              "RelativeToolTip": "aula_19-08\\aula_19-08\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:45:24.543Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

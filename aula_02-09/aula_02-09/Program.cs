@@ -1,4 +1,5 @@
 using aula_02_09.Models;
+using AspNetCore.Identity.MongoDbCore.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,9 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Conexão com o MongoDB
-ContextMongodb.ConnectionString = builder.Configuration.GetSection("MongoConnection: ConnectionString").Value;
-ContextMongodb.DatabaseName = builder.Configuration.GetSection("MongoConnection: Database").Value;
-ContextMongodb.Isssl = Convert.ToBoolean(builder.Configuration.GetSection("MongoConnection: Isssl").Value);
+ContextMongodb.ConnectionString = builder.Configuration.GetSection("MongoConnection:ConnectionString").Value;
+ContextMongodb.DatabaseName = builder.Configuration.GetSection("MongoConnection:Database").Value;
+ContextMongodb.Isssl = Convert.ToBoolean(builder.Configuration.GetSection("MongoConnection:Isssl").Value);
 
 // Configuração do Identity
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
